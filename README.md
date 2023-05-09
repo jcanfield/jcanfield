@@ -1,16 +1,16 @@
-### Hi there 👋
+# Joshua Canfield
+## Web Developer
 
-<!--
-**jcanfield/jcanfield** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado. I have been a nerd and coding since I was 13 years old. 25 years later, I offer web development and web app consulting as-well as website development and marketing for small businesses. I work with HTML, CSS, Javascript, PHP, Python and use Docker, Apache and Nginx. Please reach out if you are interested in working with me.
 
-Here are some ideas to get you started:
+### 🔗 Social
+[![version](https://img.shields.io/static/v1?label=Version&message=v1.0&color=blue)](https://github.com/jcanfield)
+[![portfolio](https://img.shields.io/static/v1?label=Portfolio&message=creativeboulder.com&color=lightgrey)](https://creativeboulder.com/)
+[![github](https://img.shields.io/static/v1?label=Github&message=jcanfield&color=yellow)](https://github.com/jcanfield)
+[![github](https://img.shields.io/static/v1?label=Github&message=codeclarity&color=green)](https://github.com/codeclarity)
+[![twitter](https://img.shields.io/static/v1?label=Twitter&message=creativeboulder&color=blue)](https://twitter.com/creativeboulder)
+[![facebook](https://img.shields.io/static/v1?label=Facebook&message=Josh%20Canfield&color=blue)](https://fb.me/jcanfieldschatz)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Stats
+![Joshua Canfield's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jcanfield)
