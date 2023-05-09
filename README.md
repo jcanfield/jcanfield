@@ -14,3 +14,7 @@ Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado.
 
 ### ⚡ Stats
 [![Joshua Canfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcanfield&count_private=true&show_icons=true&theme=dark)](https://github.com/jcanfield)
+
+### 🔥 More Info
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcanfield)](https://github.com/anuraghazra/github-readme-stats)
+[![Joshua Canfield's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jcanfield)](https://github.com/anuraghazra/github-readme-stats)
