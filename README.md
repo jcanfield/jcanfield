@@ -13,5 +13,5 @@ Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado.
 [![facebook](https://img.shields.io/static/v1?label=Facebook&message=Josh%20Canfield&color=blue)](https://fb.me/jcanfieldschatz)
 
 ### ⚡ Stats
-[![Joshua Canfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcanfield)](https://github.com/jcanfield)
+[![Joshua Canfield's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcanfield&count_private=true)](https://github.com/jcanfield)
 ![Joshua Canfield's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=jcanfield)
