@@ -1,0 +1,17 @@
+; joshuacanfield.com [3232289]
+$TTL 86400
+@  IN  SOA  ns1.linode.com. jcanfield.creativeboulder.com. 2021000024 14400 14400 1209600 86400
+@    NS  ns1.linode.com.
+@    NS  ns2.linode.com.
+@    NS  ns3.linode.com.
+@    NS  ns4.linode.com.
+@    NS  ns5.linode.com.
+@    30  MX  10  mx01.mail.icloud.com.
+@    30  MX  10  mx02.mail.icloud.com.
+@      TXT  "apple-domain=gSd5it9b5kTFMivN"
+@    30  TXT  """v=spf1 include:icloud.com ~all"""
+@      A  64.7.221.237
+www      A  64.7.221.237
+@      AAAA  2602:f9c7:0:1::bc
+www      AAAA  2602:f9c7:0:1::bc
+sig1._domainkey      CNAME  sig1.dkim.joshuacanfield.com.at.icloudmailadmin.com.

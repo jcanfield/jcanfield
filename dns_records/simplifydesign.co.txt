@@ -1,0 +1,15 @@
+; simplifydesign.co [3084732]
+$TTL 86400
+@  IN  SOA  ns1.linode.com. jcanfield.creativeboulder.com. 2021000005 14400 14400 1209600 86400
+@    NS  ns1.linode.com.
+@    NS  ns2.linode.com.
+@    NS  ns3.linode.com.
+@    NS  ns4.linode.com.
+@    NS  ns5.linode.com.
+@      MX  10  mail.simplifydesign.co.
+@      A  64.7.221.237
+mail      A  170.187.203.144
+www      A  64.7.221.237
+@      AAAA  2602:f9c7:0:1::bc
+mail      AAAA  2600:3c02::f03c:93ff:fee9:6bc7
+www      AAAA  2600:3c02::f03c:93ff:fee9:6bc7

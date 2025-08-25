@@ -1,0 +1,16 @@
+; foothillscodeworks.io [3143575]
+$TTL 86400
+@  IN  SOA  ns1.linode.com. jcanfield.creativeboulder.com. 2021000002 14400 14400 1209600 86400
+@    NS  ns1.linode.com.
+@    NS  ns2.linode.com.
+@    NS  ns3.linode.com.
+@    NS  ns4.linode.com.
+@    NS  ns5.linode.com.
+@      MX  10  mail.foothillscodeworks.io.
+@      A  170.187.203.144
+mail      A  170.187.203.144
+www      A  170.187.203.144
+@      AAAA  2600:3c02::f03c:93ff:fee9:6bc7
+mail      AAAA  2600:3c02::f03c:93ff:fee9:6bc7
+www      AAAA  2600:3c02::f03c:93ff:fee9:6bc7
+_93405D611B9F5A83A8159FE0AB9C57AE    30  CNAME  E56C209C96AD8461B4982D8860C384C6.2E9F61938CB8A2397FB6E7C813DB6619.f42a536fde7a0b2.comodoca.com.

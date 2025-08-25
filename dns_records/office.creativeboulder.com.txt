@@ -1,0 +1,21 @@
+; office.creativeboulder.com [1842442]
+$TTL 86400
+@  IN  SOA  ns1.linode.com. jcanfield.creativeboulder.com. 2021000006 14400 14400 1209600 86400
+@    NS  ns1.linode.com.
+@    NS  ns2.linode.com.
+@    NS  ns3.linode.com.
+@    NS  ns4.linode.com.
+@    NS  ns5.linode.com.
+@    3600  MX  1  aspmx.l.google.com.
+@    3600  MX  5  alt1.aspmx.l.google.com.
+@    3600  MX  5  alt2.aspmx.l.google.com.
+@    3600  MX  10  alt3.aspmx.l.google.com.
+@    3600  MX  10  alt4.aspmx.l.google.com.
+gmail._domainkey    3600  TXT  ( 
+  "v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmhpT2rFxvbpltWYHd3RmWZRKVwdD8WCmFSpDBa5yFLfXVEev+7Djfnl+IVfOJJdsJZ4AG9hYnmG3yB/nAPg4y9SU5yYlyclfDy7IRyhQHy3z/zaseYgOu/oFpevw0/YdAr64n0rweH+WAgJjPlggFN7Y1pL/WGM8/tcIShjhJd3QtmP4qLAKM0aGZI9vySTC7" 
+  "Mv16yFz4tBL0Y8yc3M4pgX/OfQ2X4QB1r5CAgg7qauS0sKoOHpx6PRF4DZ/3USzsviURxQJ0UYT2pb2qVqRMlNgU460XqX/yHP09JHQ0eF3ne9Rp1YdsslKSv21JgrfpE0Xl4VAwSqspkq8h6TqAQIDAQAB" )
+_mta-sts    30  TXT  "v=STSv1;id=1675875289110;"
+_smtp._tls    30  TXT  "v=TLSRPTv1;rua=mailto:smtp-tls-reports@office.creativeboulder.com;"
+@      A  170.187.203.144
+cloud.creativeboulder.com      A  141.148.170.221
+www    300  CNAME  office.creativeboulder.com.

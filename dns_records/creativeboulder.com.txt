@@ -1,0 +1,69 @@
+;;
+;; Domain:     creativeboulder.com.
+;; Exported:   2025-06-19 20:24:40
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+creativeboulder.com	3600	IN	SOA	miles.ns.cloudflare.com. dns.cloudflare.com. 2050203128 10000 2400 604800 3600
+
+;; NS Records
+creativeboulder.com.	86400	IN	NS	miles.ns.cloudflare.com.
+creativeboulder.com.	86400	IN	NS	poppy.ns.cloudflare.com.
+
+;; A Records
+creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+*.dns.creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+dns.creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+proxy.creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+testing.creativeboulder.com.	1	IN	A	216.24.57.1 ; cf_tags=cf-proxied:false
+vpn-admin.creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+vpn.creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+wg.creativeboulder.com.	1	IN	A	64.7.221.237 ; cf_tags=cf-proxied:false
+
+;; CNAME Records
+_26b4c84535ae02186d4f2c6a443f5011.dns.creativeboulder.com.	1	IN	CNAME	C9DE8B2E3A9AAEE22D22812D621B6143.39ABFB64D5C9E140BC009450D2F23FCA.6b24656ed519e18.comodoca.com. ; cf_tags=cf-proxied:true
+preview.creativeboulder.com.	1	IN	CNAME	cname.vercel-dns.com. ; cf_tags=cf-proxied:false
+
+;; MX Records
+creativeboulder.com.	3600	IN	MX	5 alt1.aspmx.l.google.com.
+creativeboulder.com.	3600	IN	MX	10 alt3.aspmx.l.google.com.
+creativeboulder.com.	3600	IN	MX	1 aspmx.l.google.com.
+creativeboulder.com.	3600	IN	MX	10 alt4.aspmx.l.google.com.
+creativeboulder.com.	3600	IN	MX	5 alt2.aspmx.l.google.com.
+office.creativeboulder.com.	1	IN	MX	10 alt4.aspmx.l.google.com.
+office.creativeboulder.com.	1	IN	MX	10 alt3.aspmx.l.google.com.
+office.creativeboulder.com.	1	IN	MX	5 alt2.aspmx.l.google.com.
+office.creativeboulder.com.	1	IN	MX	5 alt1.aspmx.l.google.com.
+office.creativeboulder.com.	1	IN	MX	1 aspmx.l.google.com.
+
+;; TXT Records
+creativeboulder.com.	1	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+creativeboulder.com.	86400	IN	TXT	"openai-domain-verification=dv-p7HOE7q6brdcHAGOhJsqrSMM"
+_dmarc.creativeboulder.com.	1	IN	TXT	"v=DMARC1; p=none; rua=mailto:jcanfield@creativeboulder.com"
+_dmarc.office.creativeboulder.com.	1	IN	TXT	"v=DMARC1; p=none; rua=mailto:jcanfield@office.creativeboulder.com"
+gapps._domainkey.creativeboulder.com.	300	IN	TXT	"v=DKIM1; k=rsa; p=MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCBPY/ce8YIim+FsxRbYtY/C2ohQgaYULkmPPDq3ZVN/0/fUYyuNuN1CGtbN4zZozhXRAxW2ryiTC+xlMwEvxp3cQVD2GXAzqxPKAc8IL5Skn3VM3TkGc3T6wkHWx5+CxJVcOeHc8yE+dLDFAQ9WK7Hw/4nz8ePQpyS13rLkd1pRwIDAQAB"
+gmail._domainkey.office.creativeboulder.com.	1	IN	TXT	"v=DKIM1; k=rsa; p=MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmhpT2rFxvbpltWYHd3RmWZRKVwdD8WCmFSpDBa5yFLfXVEev+7Djfnl+IVfOJJdsJZ4AG9hYnmG3yB/nAPg4y9SU5yYlyclfDy7IRyhQHy3z/zaseYgOu/oFpevw0/YdAr64n0rweH+WAgJjPlggFN7Y1pL/WGM8/tcIShjhJd3QtmP4qLAKM0aGZI9vySTC7" "Mv16yFz4tBL0Y8yc3M4pgX/OfQ2X4QB1r5CAgg7qauS0sKoOHpx6PRF4DZ/3USzsviURxQJ0UYT2pb2qVqRMlNgU460XqX/yHP09JHQ0eF3ne9Rp1YdsslKSv21JgrfpE0Xl4VAwSqspkq8h6TqAQIDAQAB"
+google-site-verification.creativeboulder.com.	300	IN	TXT	"JMQRQhOD9aSFG5Kq9qHzsOqUfo0hwteYV5FQ_mf7W-Q"
+_mta-sts.office.creativeboulder.com.	1	IN	TXT	"v=STSv1;id=1675875289110;"
+office.creativeboulder.com.	1	IN	TXT	"v=spf1 include:_spf.google.com ~all"
+_smtp._tls.office.creativeboulder.com.	1	IN	TXT	"v=TLSRPTv1;rua=mailto:smtp-tls-reports@office.creativeboulder.com;"
