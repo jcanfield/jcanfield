@@ -17,9 +17,9 @@ Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado.
 
 
 ### 🌐 Projects & Notes
-* [Digital Wellbeing Awesome List](https://s.creativeboulder.com/github-jcanfield-awesome-digital-wellbeing)
-* [Single Board Controller List](https://shorten.creativeboulder.com/github-jcanfield-single-board-controllers)
-* [Bash & ZSH Aliases](https://s.creativeboulder.com/github-jcanfield-bash-aliases)
+* [Digital Wellbeing Awesome List](https://github.com/jcanfield/awesome-digital-wellbeing/)
+* [Single Board Controller List](https://gist.github.com/jcanfield/775846d3b69f6af87e8054ce2dcb1ce3)
+* [Bash & ZSH Aliases](https://gist.github.com/jcanfield/9113ffe230c4629a3f02a4a456cfc76e)
 
 ![Additional Stats for @jcanfield](https://github-readme-stats.vercel.app/api?username=jcanfield\&theme=dark&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
