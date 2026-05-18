@@ -15,6 +15,7 @@
 ## 🚀 About Me
 Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado. I have been a nerd and coding since I was 13 years old. 25 years later, I offer web development and web app consulting as-well as website development and marketing for small businesses. I work with HTML, CSS, Javascript, PHP, Python and use Docker, Apache and Nginx. Please reach out if you are interested in working with me.
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jcanfield?cardType=level-alternate&theme=github&fontFamily=Abel&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### 🌐 Projects & Notes
 * [NullProb3](https://github.com/jcanfield/SecChk)
@@ -22,8 +23,6 @@ Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado.
 * [Digital Wellbeing Awesome List](https://github.com/jcanfield/awesome-digital-wellbeing/)
 * [Single Board Controller List](https://gist.github.com/jcanfield/775846d3b69f6af87e8054ce2dcb1ce3)
 * [Bash & ZSH Aliases](https://gist.github.com/jcanfield/9113ffe230c4629a3f02a4a456cfc76e)
-
-![Additional Stats for @jcanfield](https://github-readme-stats.vercel.app/api?username=jcanfield\&theme=dark&show_icons=true\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
 ### 🔗 Social
 [![version](https://img.shields.io/static/v1?label=Version&message=v1.0&color=blue)](https://github.com/jcanfield)
