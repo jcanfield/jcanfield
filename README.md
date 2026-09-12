@@ -18,7 +18,7 @@ Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado.
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jcanfield?cardType=level-alternate&theme=github&fontFamily=Abel&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ### 🌐 Projects & Notes
-* [NullProb3](https://github.com/jcanfield/SecChk)
+* [Weechat IPInfo Plugin](https://github.com/jcanfield/weechat-ipinfo-py)
 * [Basic Win11 $PROFILE](https://gist.github.com/jcanfield/19630cb87728eef1f9e70445f5d4fc83)
 * [Digital Wellbeing Awesome List](https://github.com/jcanfield/awesome-digital-wellbeing/)
 * [Single Board Controller List](https://gist.github.com/jcanfield/775846d3b69f6af87e8054ce2dcb1ce3)
