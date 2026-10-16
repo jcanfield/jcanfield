@@ -42,3 +42,6 @@ Hi! My name is Josh Canfield. I'm a web developer based out of Denver, Colorado.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcanfield&theme=dark)](https://github.com/jcanfield)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=jcanfield&repo=awesome-digital-wellbeing&theme=dark)](https://github.com/jcanfield/awesome-digital-wellbeing)
+
+### 🎮 Gamer Card
+<a href="https://www.exophase.com/user/HomeWrecker/"><img src="https://card.exophase.com/2/0/321849.png?1792112428"></a>
